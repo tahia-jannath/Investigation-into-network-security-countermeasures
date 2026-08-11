@@ -1,0 +1,2 @@
+root:0:toor
+staff:0:8675-309
